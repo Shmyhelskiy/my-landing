@@ -1,5 +1,6 @@
 .footer {
   @include contentPaddingInline;
+  padding-bottom: 60px;
 
   &__contacts {
     @include pageGrid;
